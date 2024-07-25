@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/A26arpitaAgarwal.github.io/restaurant_menu.github.io/static/css/main.70381060.css",
+    "main.js": "/A26arpitaAgarwal.github.io/restaurant_menu.github.io/static/js/main.048d9dc9.js",
+    "index.html": "/A26arpitaAgarwal.github.io/restaurant_menu.github.io/index.html",
+    "main.70381060.css.map": "/A26arpitaAgarwal.github.io/restaurant_menu.github.io/static/css/main.70381060.css.map",
+    "main.048d9dc9.js.map": "/A26arpitaAgarwal.github.io/restaurant_menu.github.io/static/js/main.048d9dc9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70381060.css",
+    "static/js/main.048d9dc9.js"
+  ]
+}
